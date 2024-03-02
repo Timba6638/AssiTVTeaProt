@@ -1,0 +1,23 @@
+{
+  "name": "your-package-name",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/your-repo.git"
+  },
+  "keywords": ["keyword1", "keyword2"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "dependency1": "^1.0.0",
+    "dependency2": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  }
+}
